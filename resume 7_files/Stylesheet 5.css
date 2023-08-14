@@ -1,0 +1,81 @@
+﻿body
+#top {
+    background-color: #000000;
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: MS Gothic;
+}
+
+#top h4 {
+    color: white;
+    text-align: center;
+    font-family: MS Gothic;
+}
+
+#image {
+    background-color: black;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+#body {
+    background-color: white;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+#bottom {
+    background-color: #000000;
+    padding-top: 0px;
+}
+
+body {
+    font-family: MS Gothic;
+}
+#Navbar{
+    position: fixed;
+    top:10px;
+    background-color: black;
+    display: flex;
+    justify-content:space-between;
+    width: 1000px;
+    height: 50px;
+}
+#Box1{
+    border: 1px solid black;
+    padding: 10px;
+    width: 10%;
+}
+#Box2 {
+    border: 1px solid black;
+    padding: 10px;
+    width: 10%;
+}
+#Box3 {
+    border: 1px solid black;
+    padding: 10px;
+    width: 10%;
+}
+#Box4 {
+    border: 1px solid black;
+    padding: 10px;
+    width: 10%;
+}
+#Up{
+    position:fixed;
+    bottom:80px;
+    right: 80px;
+    display:flex;
+    justify-content: space-between;
+    background-color:black;
+}
+#form{
+
+}
+#I1{
+    
+}
